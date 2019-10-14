@@ -3,7 +3,7 @@ This fold contains projects related to natural language processing. Projects inc
 
 # Movie review sentiment classification - ML models comparison
 
-In this project I implement some machine learning algorithms: KNN, Logistic Regression, SVM, Navie Bayes, Ridge Classifier, AdaBoostClassification, Random Forest. 
+In this project I implement some machine learning algorithms: KNN, Logistic Regression, SVM, Naive Bayes, Ridge Classifier, AdaBoostClassification, Random Forest. 
 
 Fist part is text cleaning. Methods used are: POS-tagging, Lemmatizer, removing punctuation, removing symbols, regularizing negation format and so on.
 
